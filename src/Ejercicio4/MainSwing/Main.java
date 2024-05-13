@@ -1,4 +1,4 @@
-package Ejercicio4;
+package Ejercicio4.MainSwing;
 import Ejercicio4.model.MediaModel;
 import Ejercicio4.view.MediaView;
 import Ejercicio4.controller.MediaController;
