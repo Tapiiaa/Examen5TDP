@@ -1,7 +1,11 @@
 Examen 5 Técnicas de programación
+
 ---------------------------------
-Link a mi repositorio:
+
+Link a mi repositorio: https://github.com/Tapiiaa/Examen5TDP.git
+
 ---------------------------------
+
 Realizado por: Pedro Alonso Tapia Lobo
 Fecha: 13/05/2024
 
@@ -11,6 +15,7 @@ En la era de la información, una biblioteca digital se esfuerza por ofrecer acc
 Este sistema debe permitir a los usuarios explorar, descargar y interactuar con una amplia variedad de medios digitales, incluyendo libros, revistas y periódicos. 
 Además, debe adaptarse a las cambiantes demandas de los usuarios y la evolución de los formatos digitales. 
 La biblioteca busca desarrollar una plataforma que no solo facilite la gestión eficiente de sus colecciones digitales, sino que también mejore la experiencia del usuario, promueva el descubrimiento de contenido y soporte una comunidad de aprendizaje en línea.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Ejercicio 1: 
 
